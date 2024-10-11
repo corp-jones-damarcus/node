@@ -13,7 +13,7 @@
     "@stylistic/eslint-plugin-js": "^2.3.0",
     "eslint": "^9.6.0",
     "eslint-formatter-tap": "^8.40.0",
-    "eslint-plugin-jsdoc": "^48.5.0",
+    "eslint-plugin-jsdoc": "^48.11.0",
     "eslint-plugin-markdown": "^5.0.0",
     "globals": "^15.6.0"
   }
